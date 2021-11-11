@@ -1,4 +1,5 @@
-# Algorithms for DNA Sequencing
+# genomic-data-science-specialization
+Genomic Data Science Specialization - JHU
 
 # Technical problems that defines most of the discussions
 - Read Alignment problem
